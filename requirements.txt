@@ -4,7 +4,7 @@ chardet==3.0.4
 Cheetah==2.4.4
 cloud-init==0.7.6
 configobj==5.0.6
-Django==1.11.8
+Django==1.11.23
 django-simple-serializer==2.0.7
 future==0.16.0
 idna==2.6
